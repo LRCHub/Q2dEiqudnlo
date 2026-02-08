@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君空",
+  "base_artist": "Rio",
+  "createdAt": "2026-02-08T14:06:12.873480Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君空",
+      "artist": "Rio",
+      "has_synced": false,
+      "path": "select/pl_01_君空_Rio.txt"
+    }
+  ]
+}
